@@ -6,9 +6,10 @@ A script to add the as well as a custom collection file to run after download sh
 # contributing
 The point of this repo is for people to contribute. Add fitting quotes to a file of your choosing or create an own. Add source when fitting. Fortune is meant to print "a random, hopefully interesting, adage" - (adage := a proverb or short statement expressing a general truth.)
 
-*Let's keep the quality*: Only add quotes / other adages that you personally like, find inspiring or funny.
+* *Let's keep the quality*: Only add quotes / other adages that you personally like, find inspiring or funny.
+* All topics should have an own file named [directory]-topic. Please don't include "-" in the file name otherwise
 
-Let's see what abstruse subtopics the internet will find. All topics should have an own file named [directory]-topic.
+Let's see what abstruse subtopics the internet will find. 
 Quotes are seperated by %.
 See https://wiki.archlinux.org/index.php/Fortune#Creating_custom_files
 
