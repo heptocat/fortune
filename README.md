@@ -30,8 +30,8 @@ collection of fortune cookies to any imaginable topic, sorted in directories
 
 ## computer
 
-## motivation/ self development
-* Shia LaBeouf
+## motivation
+* shia_labeouf
 
 ...
 ... add more
