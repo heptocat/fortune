@@ -18,6 +18,8 @@ collection of fortune cookies to any imaginable topic, sorted in directories. Ev
 ## films
 * [lordoftherings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
 * [harrypotter](https://en.wikipedia.org/wiki/Harry_Potter)
+## music
+* [joco](https://en.wikipedia.org/wiki/Jonathan_Coulton)
 ## games
 * [kingdomofloathing](https://en.wikipedia.org/wiki/Kingdom_of_Loathing)
 * [deponia](https://en.wikipedia.org/wiki/Deponia_(video_game))
