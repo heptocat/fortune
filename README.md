@@ -1,5 +1,5 @@
 # fortune
-I love having FORTUNE(6) run on my login-shell and configuring cookies myself. I cannot find a non-personal collection of topic-specific fortune cookies. So here it is.
+I love having [FORTUNE(6)](https://www.freebsd.org/cgi/man.cgi?query=fortune&sektion=6&manpath=FreeBSD+6.4-RELEASE) run on my login-shell and configuring cookies myself. I cannot find a non-personal collection of topic-specific fortune cookies. So here it is.
 
 A script to add the as well as a custom collection file to run after download shall be added soon.
 
@@ -18,17 +18,17 @@ collection of fortune cookies to any imaginable topic, sorted in directories. Ev
 * [lordoftherings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
 * [harrypotter](https://en.wikipedia.org/wiki/Harry_Potter)
 ## games
-* kingdomofloathing
-* deponia
-* portal
+* [kingdomofloathing](https://en.wikipedia.org/wiki/Kingdom_of_Loathing)
+* [deponia](https://en.wikipedia.org/wiki/Deponia_(video_game))
+* [portal](https://en.wikipedia.org/wiki/Portal_(video_game))
 ## literature
-* haiku
-* shakespeare
+* [haiku](https://en.wikipedia.org/wiki/Haiku)
+* [shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare)
 ## science
 
 ## society
-* feminism
-* lgbtq
+* [feminism](https://en.wikipedia.org/wiki/Feminism)
+* [lgbtq](https://en.wikipedia.org/wiki/LGBT)
 
 ## computer
 
