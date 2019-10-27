@@ -9,7 +9,7 @@ The point of this repo is for people to contribute. Add fitting quotes to a file
 * *Let's keep the quality*: Only add quotes / other adages that you personally like, find inspiring or funny.
 * All topics should have an own file named [directory]-topic. Please don't include "-" in the file name otherwise
 
-Let's see what abstruse subtopics the internet will find. 
+Let's see what abstruse subtopics the internet will find.
 Quotes are seperated by %.
 See https://wiki.archlinux.org/index.php/Fortune#Creating_custom_files
 
@@ -38,6 +38,7 @@ collection of fortune cookies to any imaginable topic, sorted in directories. Ev
 ## motivation
 * shia_labeouf
 * habits
+* [meditation](https://en.wikipedia.org/wiki/Meditation)
 
 ...
 ... add more
