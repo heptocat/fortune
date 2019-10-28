@@ -18,6 +18,7 @@ collection of fortune cookies to any imaginable topic, sorted in directories. Ev
 ## films
 * [lordoftherings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
 * [harrypotter](https://en.wikipedia.org/wiki/Harry_Potter)
+* [waynesworld](https://en.wikipedia.org/wiki/Wayne%27s_World)
 ## music
 * [joco](https://en.wikipedia.org/wiki/Jonathan_Coulton)
 ## games
@@ -32,6 +33,8 @@ collection of fortune cookies to any imaginable topic, sorted in directories. Ev
 ## society
 * [feminism](https://en.wikipedia.org/wiki/Feminism)
 * [lgbtq](https://en.wikipedia.org/wiki/LGBT)
+## television
+* [lost](https://en.wikipedia.org/wiki/Lost_(TV_series) 
 
 ## computer
 
