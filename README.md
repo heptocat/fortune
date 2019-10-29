@@ -10,7 +10,7 @@ The point of this repo is for people to contribute. Add fitting quotes to a file
 * All topics should have an own file named [directory]-topic. Please don't include "-" in the file name otherwise
 
 Let's see what abstruse subtopics the internet will find.
-Quotes are seperated by %.
+Quotes are separated by %.
 See https://wiki.archlinux.org/index.php/Fortune#Creating_custom_files
 
 # Topics
@@ -34,7 +34,7 @@ collection of fortune cookies to any imaginable topic, sorted in directories. Ev
 * [feminism](https://en.wikipedia.org/wiki/Feminism)
 * [lgbtq](https://en.wikipedia.org/wiki/LGBT)
 ## television
-* [lost](https://en.wikipedia.org/wiki/Lost_(TV_series) 
+* [lost](https://en.wikipedia.org/wiki/Lost_(TV_series))
 
 ## computer
 
