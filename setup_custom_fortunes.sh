@@ -7,7 +7,7 @@ HOST_FORTUNE_DIR="/usr/local/share/games/fortunes"
 # If fortune is installed:
 # - Symlink all files to the fortunes directory 
 # - Create the .dat files
-if ! [ -x "$(command -v fortune)" ];
+if command -v fortune;
 then
     echo "Fortune is not installed."
     echo "Please install fortune."
