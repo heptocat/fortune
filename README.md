@@ -1,7 +1,7 @@
 # fortune
 I love having [FORTUNE(6)](https://www.freebsd.org/cgi/man.cgi?query=fortune&sektion=6&manpath=FreeBSD+6.4-RELEASE) run on my login-shell and configuring cookies myself. I cannot find a non-personal collection of topic-specific fortune cookies. So here it is.
 
-A script to add the as well as a custom collection file to run after download shall be added soon.
+A script to add the fortunes, as well as a custom collection file to run after download shall be added soon.
 
 # contributing
 The point of this repo is for people to contribute. Add fitting quotes to a file of your choosing or create an own. Add source when fitting. Fortune is meant to print "a random, hopefully interesting, adage" - (adage := a proverb or short statement expressing a general truth.)
@@ -37,7 +37,7 @@ collection of fortune cookies to any imaginable topic, sorted in directories. Ev
 * [lost](https://en.wikipedia.org/wiki/Lost_(TV_series) 
 
 ## computer
-
+* networking
 ## motivation
 * shia_labeouf
 * habits
