@@ -1,7 +1,13 @@
 # fortune
 I love having [FORTUNE(6)](https://www.freebsd.org/cgi/man.cgi?query=fortune&sektion=6&manpath=FreeBSD+6.4-RELEASE) run on my login-shell and configuring cookies myself. I cannot find a non-personal collection of topic-specific fortune cookies. So here it is.
 
-A script to add the fortunes, as well as a custom collection file to run after download shall be added soon.
+# download
+Clone repository, then run the setup_custom_fortunes.sh script. To remove custom fortunes of your choice simply delete the files from custom_fortunes.
+You might have to create the directory /usr/local/share/games/fortunes
+
+the script has been tested on
+* macOS
+* ubuntu
 
 # contributing
 The point of this repo is for people to contribute. Add fitting quotes to a file of your choosing or create your own file. Add source when fitting. Fortune is meant to print "a random, hopefully interesting, adage" - (adage := a proverb or short statement expressing a general truth.)
