@@ -1,11 +1,19 @@
 # fortune
 I love having [FORTUNE(6)](https://www.freebsd.org/cgi/man.cgi?query=fortune&sektion=6&manpath=FreeBSD+6.4-RELEASE) run on my login-shell and configuring cookies myself. I cannot find a non-personal collection of topic-specific fortune cookies. So here it is.
 
-# download
-Clone repository, then run the setup_custom_fortunes.sh script. To remove custom fortunes of your choice simply delete the files from custom_fortunes.
-You might have to create the directory /usr/local/share/games/fortunes
+# install fortune
 
-the script has been tested on
+#### on macOS  
+* Install [homebrew](https://brew.sh/) if you don't have it already.
+* Run `brew install fortune` in Terminal.
+#### on Debian/Ubuntu
+* `apt-get install fortune`
+
+# download
+Clone repository, then run the `setup_custom_fortunes.sh` script. To remove custom fortunes of your choice simply delete the files from `custom_fortunes`.
+You might have to create the directory /usr/local/share/games/fortunes.
+
+The script has been tested on
 * macOS
 * ubuntu
 
@@ -19,8 +27,8 @@ Let's see what abstruse subtopics the internet will find.
 Quotes are seperated by %.
 See https://wiki.archlinux.org/index.php/Fortune#Creating_custom_files
 
-# Topics
-collection of fortune cookies to any imaginable topic, sorted in directories. Every directory has a [directory]-all. This is not meant to collect all subtopics, but as a file for all things that do not fit in a subtopic
+# topics
+Collection of fortune cookies to any imaginable topic, sorted in directories. Every directory has a [directory]-all. This is not meant to collect all subtopics, but as a file for all things that do not fit in a subtopic
 ## films
 * [lordoftherings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
 * [harrypotter](https://en.wikipedia.org/wiki/Harry_Potter)
