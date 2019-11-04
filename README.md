@@ -23,9 +23,9 @@ The point of this repo is for people to contribute. Add fitting quotes to a file
 * *Let's keep the quality*: Only add quotes / other adages that you personally like, find inspiring or funny.
 * All topics should have an own file named [directory]-topic. Please don't include "-" in the file name otherwise
 
-Let's see what abstruse subtopics the internet will find. 
-Quotes are seperated by %.
-See https://wiki.archlinux.org/index.php/Fortune#Creating_custom_files  
+Let's see what abstruse subtopics the internet will find.
+Quotes are separated by %.
+See https://wiki.archlinux.org/index.php/Fortune#Creating_custom_files
 
 #### Docker container testing changes to the project (not required for use)
 There is a [Dockerfile](https://docs.docker.com/engine/reference/builder/) in the repository that will assemble a lightweight Docker image with the latest version of Ubuntu, `fortune`, as well as a copy of the repository. This will allow you to run the project within a Docker container instead of your local computer, keeping your `fortune` setup separated from changes to the project that you may wish to test first.
@@ -63,6 +63,8 @@ Collection of fortune cookies to any imaginable topic, sorted in directories. Ev
 ## society
 * [feminism](https://en.wikipedia.org/wiki/Feminism)
 * [lgbtq](https://en.wikipedia.org/wiki/LGBT)
+## television
+* [lost](https://en.wikipedia.org/wiki/Lost_(TV_series))
 
 ## computer
 * networking
